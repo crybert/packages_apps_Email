@@ -229,11 +229,7 @@
             android:name=".activity.MessageCompose"
             android:label="@string/compose_title"
             android:enabled="false"
-<<<<<<< HEAD
-            android:theme="@android:style/Theme.Holo.Light"
-=======
             android:theme="@android:style/Theme.Holo"
->>>>>>> ae84d94... inverted, only test
             >
             <intent-filter>
                 <action
